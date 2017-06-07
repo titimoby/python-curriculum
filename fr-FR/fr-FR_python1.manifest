@@ -1,0 +1,23 @@
+{
+    "description": false,
+    "id": "python_01",
+    "language": "en-GB",
+    "number": 7,
+    "title": "Python 1",
+    "category": "cat-python",
+    "projects": [
+        {
+            "number":   1,
+            "filename": "lessons/About Me/About Me.md",
+            "note":     "lessons/About Me/About Me - notes.md"
+        }
+    ],
+
+    "extras": [
+        {
+            "name": "Introduction à Python",
+            "note": "volunteer resources/*.md"
+        }
+    ]
+}
+
